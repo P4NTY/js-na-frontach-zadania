@@ -1,4 +1,4 @@
-import Person from "./person";
+import {Person} from "./class";
 
 const user = new Person({
   name: 'Andy',
